@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>ChienchouSu的博客</title>
   
-  
+  <subtitle>副标题</subtitle>
   <link href="http://yoursite.com/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
@@ -10,7 +10,7 @@
   <id>http://yoursite.com/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>ChienchouSu</name>
     
   </author>
   
@@ -30,19 +30,6 @@
       
     <summary type="html">&lt;h1 id=&quot;基于Hexo搭建个人博客&quot;&gt;&lt;a href=&quot;#基于Hexo搭建个人博客&quot; class=&quot;headerlink&quot; title=&quot;基于Hexo搭建个人博客&quot;&gt;&lt;/a&gt;基于Hexo搭建个人博客&lt;/h1&gt;&lt;p&gt;本学习笔记基于b站up主&lt;a href=&quot;https://s</summary>
       
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>我的第一篇博客</title>
-    <link href="http://yoursite.com/2020/09/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2020/09/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</id>
-    <published>2020-09-01T15:25:37.000Z</published>
-    <updated>2020-09-01T15:25:37.863Z</updated>
-    
     
     
     
