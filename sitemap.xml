@@ -32,7 +32,21 @@
 
   
   <url>
-    <loc>http://chienchousu.github.io/tags/%E7%BC%96%E7%A8%8B-Hexo-%E5%8D%9A%E5%AE%A2/</loc>
+    <loc>http://chienchousu.github.io/tags/%E7%BC%96%E7%A8%8B/</loc>
+    <lastmod>2020-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chienchousu.github.io/tags/Hexo/</loc>
+    <lastmod>2020-09-02</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://chienchousu.github.io/tags/%E5%8D%9A%E5%AE%A2/</loc>
     <lastmod>2020-09-02</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
