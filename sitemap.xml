@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://chienchousu.github.io/2020/09/03/hello/</loc>
+    
+    <lastmod>2020-09-03</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://chienchousu.github.io/2020/09/01/%E5%9F%BA%E4%BA%8EHexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</loc>
     
     <lastmod>2020-09-03</lastmod>
@@ -12,6 +19,13 @@
     <loc>http://chienchousu.github.io/data/butterfly.json</loc>
     
     <lastmod>2020-09-02</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://chienchousu.github.io/2020/09/01/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87%E5%8D%9A%E5%AE%A2/</loc>
+    
+    <lastmod>2020-09-01</lastmod>
     
   </url>
   
