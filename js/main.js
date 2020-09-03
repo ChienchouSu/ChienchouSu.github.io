@@ -603,7 +603,7 @@ $(function() {
             if (copyFont.length > copyright.limitCount) {
                 textFont = copyFont + '\n' + '\n' + '\n' +
                     copyright.languages.author + '\n' +
-                    copyright.languages.link + decodeURI(window.location.href) + '\n' +
+                    copyright.languages.link + window.location.href + '\n' +
                     copyright.languages.source + '\n' +
                     copyright.languages.info
             } else {
